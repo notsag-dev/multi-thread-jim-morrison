@@ -1,6 +1,4 @@
 # Multi-thread Jim Morrison
-Multi-thread Jim Morrison jokes generator in Go.
-
 ## Build and run
 ```
 go build
